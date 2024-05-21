@@ -1,7 +1,7 @@
 # Python Django Elasticsearch
-#### A PoC to integrate Django REST Framework (DRF) with Elasticsearch
+#### A PoC to integrate Django REST Framework (DRF) with Elasticsearch 
 
-Elasticsearch is a distributed, open-source search and analytics engine. 
+- Elasticsearch is a distributed, open-source search and analytics engine. 
 It is designed for horizontal scalability, reliability, and easy management. Elasticsearch is used for full-text search, structured search, analytics, and all in real time. It stores and indexes data in a scalable way, and it can search and analyze that data at speed. Elasticsearch is typically used for log and event data analysis, full-text search, and operational intelligence use cases.
 ---
 
